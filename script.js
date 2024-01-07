@@ -13,9 +13,6 @@ function login() {
         alert("Welcome Yiming da Great");
         window.location.href='gimkit.html';
       }
-        else if (textEntered == "Evan.com") {
-          alert("Welcome Admin");
-          window.location.href='admin.html';
         }
           else if (textEntered == "ilike123") {
             alert("Welcome Leo");
