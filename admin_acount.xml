@@ -1,0 +1,12 @@
+<admin_account>
+  <account type="email" name="evanm">gimclub_evan@outlook.com</account>
+  <account type="email" name="alex">gimclub_alex@outlook.com</account>
+  <account type="email" name="yiming">gimclub_yiming@outlook.com</account>
+  <account type="email" name="leo">gimclub_leo@outlook.com</account>
+  <account type="password" name="evanm">ebcoder1!</account>
+  <account type="password" name="alex">AlexHi1@</account>
+  <account type="password" name="yiming">fbiAgent</account>
+  <account type="password" name="leo">ilike123</account>
+  <microsoft type="outlook">Teams</microsoft>
+  <chat type="which">Gimkit Club Chat Admin</chat>
+</admin_account>
