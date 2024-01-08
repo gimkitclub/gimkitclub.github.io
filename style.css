@@ -12,7 +12,10 @@
   text-align: justify;
 }
 .image {
-  text-align: center;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 .button {
   box-shadow: 6px 3px 0px 1px #899599;
