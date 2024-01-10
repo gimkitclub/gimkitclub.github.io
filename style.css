@@ -39,3 +39,26 @@
   position:relative;
   top:1px;
 }
+#taskbar {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50px;
+}
+
+.task-item {
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 20px;
+  display: block;
+  transition: background-color 0.3s;
+}
+
+.task-item:hover {
+  background-color: #555;
+}
